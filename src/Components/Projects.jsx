@@ -11,7 +11,7 @@ import MarkdownPreviewer from "../Images/MarkdownPreviewer.png";
 import ForceYesConfession from "../Images/ForceYesConfession.png";
 import GahdamMusicPlayer from "../Images/GahDamMusicPlayer.png";
 import NumbleFront from "../Images/numbleFront.jpg";
-import FigmaFacebookDesign from "../Images/FigmaFacebookDesign.jpg";
+import FB_Figma from "../Images/FB_Figma.png";
 
 function Projects() {
   return (
@@ -98,7 +98,7 @@ function Projects() {
           <Col md={4} className="mb-4">
             <EachProjects
               link="https://www.figma.com/proto/1YGn6Xd7j2YwywidmIEjfU/KAP-NINO?type=design&node-id=9-145&t=Ckt0EmdZAU5A3VO9-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3"
-              image={FigmaFacebookDesign}
+              image={FB_Figma}
               title="Figma Facebook Design"
               desc=""
             />
