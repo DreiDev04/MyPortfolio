@@ -11,7 +11,7 @@ import MarkdownPreviewer from "../Images/MarkdownPreviewer.png";
 import ForceYesConfession from "../Images/ForceYesConfession.png";
 import GahdamMusicPlayer from "../Images/GahDamMusicPlayer.png";
 import NumbleFront from "../Images/numbleFront.jpg";
-import FigmaFacebookDesign from "../Images/FigmaFacebookDesign.png";
+import FigmaFacebookDesign from "../Images/FigmaFacebookDesign.jpg";
 
 function Projects() {
   return (

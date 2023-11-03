@@ -22,7 +22,7 @@ function About() {
         <Col className="d-flex justify-content-center align-items-center ">
           <div className="cardAbout"></div>
         </Col>
-        <Col className="aboutmecol_2">
+        <Col className="aboutmecol_2 p-5">
           <h1 className="display-4">About me</h1>
           <p className="blockquote ">
             I am currently a second-year Computer Science student at Tarlac
