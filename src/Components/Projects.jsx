@@ -32,7 +32,7 @@ function Projects() {
               link="https://dreidev04.github.io/DrumMachine-FCC-vite/"
               image={DrumMachine}
               title="Drum Machine"
-              desc="A drum machine is a musical instrument that makes sounds by striking the membrane with drum sticks."
+              desc="This is a freeCodeCamp Challenge which we are assigned to make a drum machine using React + Redux."
             />
           </Col>
           <Col md={4} className="mb-4">
@@ -40,7 +40,7 @@ function Projects() {
               link="https://dreidev04.github.io/JS-Calculator/"
               image={JSCalculator}
               title="JS Calculator"
-              desc="A calculator is a device that performs arithmetic operations on numbers."
+              desc="A Calculator that has a basic arithmetic operations and additional features such as backspace, clear, and decimal. This is a freeCodeCamp Challenge."
             />
           </Col>
           <Col md={4} className="mb-4">
@@ -48,7 +48,7 @@ function Projects() {
               link="https://dreidev04.github.io/Pomodoro-Timer/"
               image={PomodoroTimer}
               title="Pomodoro Timer"
-              desc="The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s."
+              desc="This is a freeCodeCamp Challenge which we are assigned to make a Pomodoro Timer but i want it to be designed as my time management app."
             />
           </Col>
         </Row>
@@ -58,7 +58,7 @@ function Projects() {
               link="https://dreidev04.github.io/RandomQuoteGenerator/src/index.html"
               image={RandomQuoteGenerator}
               title="Quote Generator"
-              desc="A random quote generator is a program that will pick a random quote from a list of quotes and display it to the user of the program."
+              desc="A random quote generator is a program that will pick a random quote from a online API that will display it on a webpage."
             />
           </Col>
           <Col md={4} className="mb-4">
@@ -74,7 +74,7 @@ function Projects() {
               link="https://dreidev04.github.io/ConfessToYourCrush/krass.html"
               image={ForceYesConfession}
               title="Force Yes Confession"
-              desc="A confession is a statement – made by a person or by a group of persons – acknowledging some personal fact that the person (or the group) would ostensibly prefer to keep hidden."
+              desc="This is my first Project that I made using HTML, CSS, and JS. This is a confession page that will force your crush to say yes."
             />
           </Col>
         </Row>
@@ -84,7 +84,7 @@ function Projects() {
               link="https://github.com/DreiDev04/GahDamMusicPlayer"
               image={GahdamMusicPlayer}
               title="Music Player from JAVA"
-              desc=""
+              desc="This is one of our case study, where we are assigned to make a simple program using JAVA Swing. We made a music player that can play, pause, stop, and skip music."
             />
           </Col>
           <Col md={4} className="mb-4">
@@ -92,7 +92,7 @@ function Projects() {
               link="https://github.com/DreiDev04/Numble"
               image={NumbleFront}
               title="Numble"
-              desc="Markdown is a lightweight markup language for creating formatted text using a plain-text editor."
+              desc="Numble is a game I develop using c#. This is based on my case study in my Course in Human Computer Interactions (HCI)"
             />
           </Col>
           <Col md={4} className="mb-4">
@@ -100,7 +100,7 @@ function Projects() {
               link="https://www.figma.com/proto/1YGn6Xd7j2YwywidmIEjfU/KAP-NINO?type=design&node-id=9-145&t=Ckt0EmdZAU5A3VO9-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3"
               image={FB_Figma}
               title="Figma Facebook Design"
-              desc=""
+              desc="This is our figma Challenge from my org ProgDen. We are assigned to make a facebook copy using figma."
             />
           </Col>
         </Row>
