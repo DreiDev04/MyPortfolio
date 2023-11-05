@@ -78,4 +78,14 @@ body {
     width: 100%;
     height: 100%;
   }
+  .aboutmecol_2 {
+    border: none;
+    border-image: none;
+    box-shadow: none;
+  }
+  .aboutmecol {
+    border: none;
+    border-image: none;
+    box-shadow: none;
+  }
 }

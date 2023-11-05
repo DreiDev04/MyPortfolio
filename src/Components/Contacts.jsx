@@ -3,7 +3,11 @@ import "../Styles/Contacts.css";
 import { Button } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope, faLink } from "@fortawesome/free-solid-svg-icons";
-import { faFacebook, faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import {
+  faFacebook,
+  faGithub,
+  faLinkedin,
+} from "@fortawesome/free-brands-svg-icons";
 
 function Contacts() {
   return (
@@ -28,24 +32,26 @@ function Contacts() {
                 tacujan.andrei@gmail.com
               </Button>
             </a>
-            <a href="https://www.facebook.com/iamjohnandrei/" target="_blank">
-              <Button variant="outline-light">
-                <FontAwesomeIcon icon={faFacebook} />
-              </Button>
-            </a>
-            <a
-              href="https://www.linkedin.com/in/john-andrei-tacujan-123ry/"
-              target="_blank"
-            >
-              <Button variant="outline-light">
-                <FontAwesomeIcon icon={faLinkedin}/>
-              </Button>
-            </a>
-            <a href="https://github.com/DreiDev04" target="_blank">
-              <Button variant="outline-light">
-                <FontAwesomeIcon icon={faGithub} />
-              </Button>
-            </a>
+            <div>
+              <a href="https://www.facebook.com/iamjohnandrei/" target="_blank">
+                <Button variant="outline-light">
+                  <FontAwesomeIcon icon={faFacebook} />
+                </Button>
+              </a>
+              <a
+                href="https://www.linkedin.com/in/john-andrei-tacujan-123ry/"
+                target="_blank"
+              >
+                <Button variant="outline-light">
+                  <FontAwesomeIcon icon={faLinkedin} />
+                </Button>
+              </a>
+              <a href="https://github.com/DreiDev04" target="_blank">
+                <Button variant="outline-light">
+                  <FontAwesomeIcon icon={faGithub} />
+                </Button>
+              </a>
+            </div>
           </div>
         </div>
       </div>

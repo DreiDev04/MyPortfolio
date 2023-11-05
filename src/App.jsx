@@ -17,18 +17,13 @@ function App() {
       <br />
       <br />
       <br />
-
-
       <About />
       <br />
       <Projects />
       <br />
       <br />
       <Contacts />
-
       <Footer />
-
-
     </>
   );
 }

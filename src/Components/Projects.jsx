@@ -19,7 +19,7 @@ function Projects() {
       <div className=" mx-5">
         <p className="d-flex justify-content-center mb-5 display-5">Projects</p>
 
-        <p className="blockquote mx-auto text-center" style={{ width: "80%" }}>
+        <p className="blockquote mx-auto text-center mb-5" style={{ width: "80%" }}>
           Here's a sneak peek at a few of my most recent projects. I love to
           transform ideas into web projects or anything related to UI/UX that inspires me to do more projects.
         </p>
